@@ -11,7 +11,7 @@ const RESUME = {
   kicker:   'Resume — 2026',
   location: '',                       // shahar (hozircha ko‘rsatilmagan)
   status:   'Ehtirom Plus mikromoliya tashkiloti',
-  photo:    '',                       // masalan: 'me.jpg' (bo‘sh qolsa — bosh harflar chiqadi)
+  photo:    '1777783195777.png',                       // masalan: 'me.jpg' (bo‘sh qolsa — bosh harflar chiqadi)
 
   about: 'Tashkilotdagi qo‘lda bajariladigan hisobotlarni *avtomatlashtiraman*: Telegram botlar, desktop dasturlar va xatolarni avtomatik nazorat qiluvchi tizimlar yarataman.',
   stats: [
